@@ -34,6 +34,9 @@ form .instruct {
     font-size:inherit !important;
     font-family:BentonSans, Arial, Helvetica, sans-serif !important;
 }
+.confirm .wufoo {
+    text-align: left;
+}
 .confirm h2 {
     font-size:12px !important;
     font-family:BentonSans, Arial, Helvetica, sans-serif !important;
@@ -58,4 +61,9 @@ form li.section h3 {
     padding: 0 0 0 0 !important;
     border-top: none !important;
     font-weight: bold !important;
+}
+
+.embed .confirm h2.paidHeading {
+    margin: 0;
+    padding: 0;
 }
